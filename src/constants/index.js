@@ -237,7 +237,7 @@ import {
     {
       name: "3D TicTacToe",
       description:
-        "In progress 3D tictactoe in Unity"
+        "3D tictactoe in Unity"
         ,
       tags: [
         {
