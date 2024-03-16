@@ -30,10 +30,11 @@ import codeninjas from "./company/codeninjas.png";
 import microsoft from "./company/microsoft.png";
 import ktp from "./company/ktp.png";
 import manatee from "./company/manatee.png";
+import xr from "./company/xr_image.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import tripguide from "./tripguide.jpg";
 import hackathonworking from "./hackathonworking.png";
 import geodash from "./geodash.png"
 
@@ -73,4 +74,5 @@ export {
   ktp,
   codeninjas,
   csharp,
+  xr,
 };

@@ -30,6 +30,7 @@ import {
     ktp,
     manatee,
     csharp,
+    xr
   } from "../assets";
   
   export const navLinks = [
@@ -144,9 +145,21 @@ import {
       iconBg: "#fafbfc",
       date: "Dec 2023 - Present",
       points: [
-        "Working with large data sets in R Programming.",
-        "Collaborating with other researchers to visualize findings.",
-        "Implementing design and problem solving, logically and creatively thinking with the research team at University of Miami.",
+        "Visualizing & analyzing large data sets in R Programming.",
+        "Implemented Google Cloud APIs in research process for the lab using Javascript.",
+        "Problem solving, logically and creatively thinking with the research team.",
+      ],
+    },
+    {
+      title: "XR Junior Developer",
+      company_name: "Institute of Data Science & Computing",
+      icon: xr,
+      iconBg: "#FFFFFF",
+      date: "Present",
+      points: [
+        "Engineering conversational agent with AI using Unity & Inworld.",
+        "Experience with version control to collaborate and track programs with the team.",
+        "XR, AR, & VR product testing.",
       ],
     },
     {
@@ -156,8 +169,8 @@ import {
       iconBg: "#212e52",
       date: "Present",
       points: [
-        "Along with bringing forth women's empowerment in Kappa Theta Pi, and continuing to create new projects and learn new topics, I enjoy reading and creative designing.",
-        "Dabbling into blender, and trying to bring forth the benefits with my physical art.",
+        "Along with bringing forth women's empowerment in KTP, I enjoy reading and creative designing.",
+        "Dabbling into blender, and trying to bring forth the benefits with my physical art (hyperlink to portfolio in progress).",
         "Participating in coding challenges and seeing where the tech journey takes me.",
       ],
     },
@@ -210,11 +223,11 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: hackathonworking,
-      source_code_link: "https://github.com/",
+      image: carrent,
+      source_code_link: "https://github.com/danyagomezcantu/Finza",
     },
     {
-      name: "GeoDash",
+      name: "PolyRun",
       description:
         "Unity developed game in C#, geometry dash using 2D development.",
       tags: [
@@ -232,12 +245,12 @@ import {
         },
       ],
       image: geodash,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/pkr20/polyrun",
     },
     {
       name: "3D TicTacToe",
       description:
-        "In progress 3D tictactoe in Unity"
+        "3D tictactoe in Unity"
         ,
       tags: [
         {
@@ -253,7 +266,26 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      
+      image: tripguide,
+      source_code_link: "https://github.com/pkr20/updatedtictactoe",
+    },
+    {
+      name: "3DObby",
+      description:
+        "3D Obby in Unity, scripts with C#"
+        ,
+      tags: [
+        {
+          name: "Csharp",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Unity",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/pkr20/3DObby",
     },
   ];
   
