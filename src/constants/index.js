@@ -158,6 +158,7 @@ import {
       date: "Present",
       points: [
         "Engineering conversational agent with AI using Unity & Inworld.",
+        "Obstetric Emergency Simulation: Improve Obstetrics Using Immersive XR Technologies, provide first responders with realistic and dynamic training simulations.", 
         "Experience with version control to collaborate and track programs with the team.",
         "XR, AR, & VR product testing.",
       ],
